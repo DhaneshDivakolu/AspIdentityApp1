@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspIdentityApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84cb137a813770a6c7b3ddf5a5a078b2b7052538")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspIdentityApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspIdentityApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
